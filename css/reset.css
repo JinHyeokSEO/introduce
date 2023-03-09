@@ -1,0 +1,9 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;500&family=Orbitron:wght@400;600;900&display=swap');
+/*font-family: 'Noto Sans KR', sans-serif;    font-family: 'Orbitron', sans-serif;*/
+* {margin:0; padding:0; box-sizing:border-box;}
+html, body {overflow:hidden;}
+ol, ul {list-style:none;}
+a {display:block; color:#333; text-decoration:none; outline:0; border:0;}
+img {outline:0; border:0;}
+.clear {clear:both;}
